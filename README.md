@@ -18,7 +18,10 @@ src\main\java\TP2\agenda\agenda\AgendaApplication.java
 
 ## Screenshots
 
-[navigate to screenshots folder](https://github.com/sbaka/Agenda-web-app/blob/main/screenshots)
+![login](./screenshots/Screenshot%202024-03-25%20135824.png)
+![sign up](./screenshots/Screenshot%202024-03-25%20135843.png)
+![Add event](./screenshots/Screenshot%202024-03-25%20140019.png)
+![Manage Agendas](./screenshots/Screenshot%202024-03-25%20140102.png)
 
 ## Author
 
